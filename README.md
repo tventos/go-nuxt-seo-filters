@@ -1,5 +1,11 @@
 # Go Nuxt Seo filters 
 
+![Go](https://img.shields.io/badge/Backend-Go-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Framework-Gin-black?logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-3.x-42B883?logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Frontend-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 *This code is only a small concept, possibly containing bugs, and is for reference only!*
 
 ## What is an SEO filter?
